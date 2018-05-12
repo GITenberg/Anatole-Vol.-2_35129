@@ -1,0 +1,34 @@
+_repo: Anatole-Vol.-2_35129
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gay, Sophie
+    aliases:
+    - Gay, Marie Sophie
+    - Lavalette, Marie Francoise Sophie Nichault de
+    - Gay, Sofia
+    - Lavalette, Marie Françoise Sophie Nichault de
+    - Nichault de Lavalette, Marie Françoise Sophie
+    birthdate: 1776
+    deathdate: 1852
+    gutenberg_agent_id: '7585'
+    url: http://www.gutenberg.org/2009/agents/7585
+    wikipedia: http://fr.wikipedia.org/wiki/Sophie_Gay
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35129'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Anatole, Vol. 2
+url: http://www.gutenberg.org/ebooks/35129
